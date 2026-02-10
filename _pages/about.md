@@ -9,7 +9,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Yi-Lin Ren is currently a doctoral student in the [School of Journalism and Communication, Nanjing University]. She is the director of on the use of online games. His research interest focuses on the use of online games and media use among people with disabilities.
+Yilin Ren, Master’s graduate from Huazhong University of Science and Technology, PhD candidate at the School of Journalism and Communication, Nanjing University.
+Main Research Interests: Accessible Communication, Communication Psychology, Sociology of Communication, Health Communication.
+Her papers have been published in CSSCI and SCI journals including News and Writing, Chinese Network Communication Research, Journalism & Communication Review, and Cyberpsychology: Journal of Psychosocial Research on Cyberspace. She has participated in many academic conferences such as the Annual Conference on Media Regulations and Ethics of China and the Annual Conference on the History of Chinese Journalism.
 
 
 <br>
