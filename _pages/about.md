@@ -27,10 +27,10 @@ social: true
 School of Journalism and Communication, Nanjing University
 
 **Master of Arts in Journalism and Communication**  
-Huazhong University of Science and Technology (2020)
+Huazhong University of Science and Technology
 
 **Bachelor of Arts in Radio and Television Directing**  
-Guizhou Minzu University (2017)
+Guizhou Minzu University
 
 ---
 
@@ -50,12 +50,6 @@ Her work has appeared in leading **CSSCI** and **SCI** journals, including:
 - Annual Conference on Media Regulations and Ethics of China
 - Annual Conference on the History of Chinese Journalism
 - Other national and international academic forums
-
----
-
-<div style="text-align: center; margin-top: 3rem; opacity: 0.6;">
-  <small>Page maintained by Yilin Ren · Last updated: 2024</small>
-</div>
 
 ---
 
