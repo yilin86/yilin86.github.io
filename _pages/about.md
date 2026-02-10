@@ -2,57 +2,22 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD Candidate, School of Journalism and Communication, Nanjing University
-news: false
-latest_posts: false
-selected_papers: false
-social: true
+subtitle: 
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: true  # includes social icons at the bottom of the page
 ---
 
-# Yilin Ren
+Yilin Ren, Master’s graduate from Huazhong University of Science and Technology, PhD candidate at the School of Journalism and Communication, Nanjing University.
+Main Research Interests: Accessible Communication, Communication Psychology, Sociology of Communication, Health Communication.
+Her papers have been published in CSSCI and SCI journals including News and Writing, Chinese Network Communication Research, Journalism & Communication Review, and Cyberpsychology: Journal of Psychosocial Research on Cyberspace. She has participated in many academic conferences such as the Annual Conference on Media Regulations and Ethics of China and the Annual Conference on the History of Chinese Journalism.
 
-任怡林
 
----
+<br>
 
-## Research Interests
-
-**Accessible Communication** · **Communication Psychology** · **Sociology of Communication** · **Health Communication**
-
----
-
-## Academic Background
-
-**PhD Candidate**  
-School of Journalism and Communication, Nanjing University
-
-**Master of Arts in Journalism and Communication**  
-Huazhong University of Science and Technology
-
-**Bachelor of Arts in Radio and Television Directing**  
-Guizhou Minzu University
-
----
-
-## Publications
-
-Her work has appeared in leading **CSSCI** and **SCI** journals, including:
-
-- *News and Writing* (新闻与写作)
-- *Chinese Network Communication Research* (中国网络传播研究)
-- *Journalism & Communication Review* (新闻与传播评论)
-- *Cyberpsychology: Journal of Psychosocial Research on Cyberspace*
-
----
-
-## Academic Conferences
-
-- Annual Conference on Media Regulations and Ethics of China
-- Annual Conference on the History of Chinese Journalism
-- Other national and international academic forums
-
----
-
-<a href="https://github.com/SocratesClub/SocratesClub.github.io/edit/master/_pages/about.md" style="display: inline-block; margin-top: 2rem;">
-  <img src="https://user-images.githubusercontent.com/543384/192227995-fdb3a693-2f68-4dc4-b9bd-06053066322f.png" width="400" style="opacity: 0.5; transition: opacity 0.3s;" onmouseover="this.style.opacity='0.8'" onmouseout="this.style.opacity='0.5'" />
+<a href="https://github.com/SocratesClub/SocratesClub.github.io/edit/master/_pages/about.md">
+  <img src="https://user-images.githubusercontent.com/543384/192227995-fdb3a693-2f68-4dc4-b9bd-06053066322f.png" width = "800" align="middle" />
 </a>
+
+<br>
